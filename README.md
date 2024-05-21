@@ -6,7 +6,8 @@
 - 💻 All of my projects are available at https://github.com/Bhanupratap83
 - 💬 Ask me about HTML,CSS,JS.
 - 📩 You may reach out at bp747444@gmail.com
-- ⚡I'm passionate and being adaptive.
+- ⚡ I'm passionate and being adaptive.
+- 🖊️ I'm having 9.1 gpa(avergae) in first year and 8.91 in third sem.
 
 <!---
 Bhanupratap83/Bhanupratap83 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
