@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DSA and MERN Stack.
 - 💞️ I’m looking to collaborate on open source and seeking for a opportunity as Intern.
 - 📫 How to reach me www.linkedin.com/in/bhanupratapit
-- 💻 All of my projects are available at ...
+- 💻 All of my projects are available at https://github.com/Bhanupratap83
 - 💬 Ask me about HTML,CSS,JS.
 - 📩 You may reach out at bp747444@gmail.com
 - ⚡I'm passionate and being adaptive.
