@@ -9,6 +9,8 @@
 - ⚡ I'm passionate and being adaptive.
 - 🖊️ I'm having 9.1 gpa(avergae) in first year and 8.91 in third sem.
 
+- Languages and Tools:
+
 ![html](https://github.com/Bhanupratap83/Bhanupratap83/assets/136685078/800d653b-cdcf-4a03-95e1-729fa8643752)
 ![css](https://github.com/Bhanupratap83/Bhanupratap83/assets/136685078/31580371-a8fd-4110-8e66-3dc016db7069)
 ![js](https://github.com/Bhanupratap83/Bhanupratap83/assets/136685078/d3080f08-e8e1-44ad-b43f-362bd1746464)
