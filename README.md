@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bhanu Pratap
 - 👀 I’m a passionate Frontend Web Developer from Jaipur India.
-- 🌱 I’m currently learning DSA and MERN Stack.
+- 🌱 I’m currently learning DSA in Java and MERN Stack.
 - 💞️ I’m looking to collaborate on open source and seeking for a opportunity as Intern.
 - 📫 How to reach me www.linkedin.com/in/bhanupratapit
 - 💻 All of my projects are available at https://github.com/Bhanupratap83
