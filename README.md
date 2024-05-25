@@ -9,21 +9,25 @@
 
 - 🔭 I’m currently learning DSA in Java and MERN Stack.
 
-- 👯 I’m looking to collaborate on open source and seeking for a opportunity as Intern.
+- 🖊️ I'm having 9.1 gpa(average) in first year and 8.97 in third sem.
 
-- 📫 You may reach out at www.linkedin.com/in/bhanupratapit
+- ⚡I've done Virtual Internship from BHARAT INTERN in Fronted Web Development in first year ...https://drive.google.com/file/d/1HLsXZ7Oora5X6tWN9Yw70s3_uv_9iFnG/view?usp=sharing  .... https://drive.google.com/file/d/1O-bCp751RkREliVa1KS_e6Q3nTT9-iNd/view?usp=sharing
 
-- ⚡I've done Virtual Internship from BHARAT INTERN in Fronted Web Development ...https://drive.google.com/file/d/1HLsXZ7Oora5X6tWN9Yw70s3_uv_9iFnG/view?usp=sharing  .... https://drive.google.com/file/d/1O-bCp751RkREliVa1KS_e6Q3nTT9-iNd/view?usp=sharing
-
+- 🙌 My latest project https://bhanupratap83.github.io/Tic-Tac-Toe/
+ 
 - 👨‍💻 All of my projects are available at https://github.com/Bhanupratap83
 
+- 👯 I’m looking to collaborate on open source and seeking for a opportunity as Intern.
+
 - 💬 Ask me about HTML, CSS, Javascript and languages i.e C, C++, Java.
+
+- 📫 You may reach out at www.linkedin.com/in/bhanupratapit
 
 - 📩 You may reach out at bp747444@gmail.com
 
 - ⚡ I'm passionate and adaptive person.
 
-- 🖊️ I'm having 9.1 gpa(average) in first year and 8.97 in third sem.
+
 
 
 
