@@ -1,5 +1,12 @@
 - 👋 Hi, I’m Bhanu Pratap
 - 👀 I’m a passionate Frontend Web Developer from Jaipur India.
+
+-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushpanwarfst&label=Profile%20views&color=0e75b6&style=flat" alt="piyushpanwarfst" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushpanwarfst" alt="piyushpanwarfst" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 - 🌱 I’m currently learning DSA in Java and MERN Stack.
 - 💞️ I’m looking to collaborate on open source and seeking for a opportunity as Intern.
 - 📫 How to reach me www.linkedin.com/in/bhanupratapit
@@ -10,13 +17,6 @@
 - 🖊️ I'm having 9.1 gpa(avergae) in first year and 8.91 in third sem.
 
 - Connect with me: https://www.linkedin.com/in/bhanupratapit/
-
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushpanwarfst&label=Profile%20views&color=0e75b6&style=flat" alt="piyushpanwarfst" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushpanwarfst" alt="piyushpanwarfst" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
   
 - Languages and Tools:
 
