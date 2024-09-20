@@ -2,6 +2,10 @@
 <h3 align="center">A passionate Frontend Web Developer from India !</h3>
 <img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushpanwarfst&label=Profile%20views&color=0e75b6&style=flat" alt="piyushpanwarfst" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushpanwarfst" alt="piyushpanwarfst" /></a> </p>
+
 - 🔭 I’m currently learning DSA in Java and MERN Stack.
 
 - 🖊️ I'm having 9.1 gpa(average) in first year and 8.97 in third sem.
