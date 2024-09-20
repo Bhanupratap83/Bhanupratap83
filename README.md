@@ -2,6 +2,27 @@
 <h3 align="center">A passionate Frontend Web Developer from India !</h3>
 <img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
+- 🔭 I’m currently learning DSA in Java and MERN Stack.
+
+- 🖊️ I'm having 9.1 gpa(average) in first year and 8.97 in third sem.
+
+- ⚡I've done Virtual Internship from BHARAT INTERN in Fronted Web Development in first year ...https://drive.google.com/file/d/1HLsXZ7Oora5X6tWN9Yw70s3_uv_9iFnG/view?usp=sharing  .... https://drive.google.com/file/d/1O-bCp751RkREliVa1KS_e6Q3nTT9-iNd/view?usp=sharing
+
+- 🙌 My latest project https://bhanupratap83.github.io/Tic-Tac-Toe/
+ 
+- 👨‍💻 All of my projects are available at https://github.com/Bhanupratap83
+
+- 👯 I’m looking to collaborate on open source and seeking for a opportunity as Intern.
+
+- 💬 Ask me about HTML, CSS, Javascript and languages i.e C, C++, Java.
+
+- 📫 You may reach out at www.linkedin.com/in/bhanupratapit
+
+- 📩 You may reach out at bp747444@gmail.com
+
+- ⚡ I'm passionate and adaptive person.
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhanupratap83&label=Profile%20views&color=0e75b6&style=flat" alt="bhanupratap83" /> </p>
 
 <h3 align="left">Connect with me:</h3>
