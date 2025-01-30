@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently learning DSA in Java and MERN Stack.
 
-- 🖊️ I'm having 9.1 gpa(average) in first year and 8.97 in third sem.
+- 🖊️ I'm having 9.02 cgpa till 5th sem.
 
 - ⚡I've done Virtual Internship from BHARAT INTERN in Fronted Web Development in first year ...https://drive.google.com/file/d/1HLsXZ7Oora5X6tWN9Yw70s3_uv_9iFnG/view?usp=sharing  .... https://drive.google.com/file/d/1O-bCp751RkREliVa1KS_e6Q3nTT9-iNd/view?usp=sharing
 
