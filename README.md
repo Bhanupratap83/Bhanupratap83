@@ -14,7 +14,7 @@
 
 - ⚡I've done Virtual Internship from BHARAT INTERN in Fronted Web Development in first year ...https://drive.google.com/file/d/1HLsXZ7Oora5X6tWN9Yw70s3_uv_9iFnG/view?usp=sharing  .... https://drive.google.com/file/d/1O-bCp751RkREliVa1KS_e6Q3nTT9-iNd/view?usp=sharing
 
-- 🙌 My latest project https://github.com/Bhanupratap83/Simon-Says-Game.git
+- 🙌 My latest project https://github.com/Bhanupratap83/Chatting-Application.git
  
 - 👨‍💻 All of my projects are available at https://github.com/Bhanupratap83
 
