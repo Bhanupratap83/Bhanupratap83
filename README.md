@@ -9,7 +9,7 @@
 
 - 🖊️ I'm having 9.02 cgpa till 5th sem.
 
-- Here is my resume :  https://drive.google.com/file/d/1WjQl0zafkaQLMxoJsqL9g5jLfjrddyp5/view?usp=sharing
+- Here is my resume :  https://drive.google.com/file/d/1arrl6k2afJtNLSRNSADef1ucNTgCurko/view?usp=sharing
 
 - ⚡I've done Virtual Internship from BHARAT INTERN in Fronted Web Development in first year ...https://drive.google.com/file/d/1HLsXZ7Oora5X6tWN9Yw70s3_uv_9iFnG/view?usp=sharing  .... https://drive.google.com/file/d/1O-bCp751RkREliVa1KS_e6Q3nTT9-iNd/view?usp=sharing
 
