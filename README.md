@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm Bhanu Pratap</h1>
-<h3 align="center">A passionate Frontend Web Developer from India !</h3>
+<h3 align="center">A passionate Web Developer from India!</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
@@ -11,15 +11,15 @@
 
 - Here is my resume :  https://drive.google.com/file/d/10qzdwwDWs2QvaBIcTCx65YFvuKFLvZBo/view?usp=sharing
   
-- ⚡I've done Virtual Internship from BHARAT INTERN in Fronted Web Development in first year ...https://drive.google.com/file/d/1HLsXZ7Oora5X6tWN9Yw70s3_uv_9iFnG/view?usp=sharing  .... https://drive.google.com/file/d/1O-bCp751RkREliVa1KS_e6Q3nTT9-iNd/view?usp=sharing
+- ⚡I've done Virtual Internship from TechnoHacks Solutions Pvt. Ltd. in Full Stack Development ...https://drive.google.com/file/d/1ojusoPjK7n_fqb84_y6tYN5tAk4lI_ja/view?usp=sharing
 
-- 🙌 My latest project https://apnaghar-17cp.onrender.com
+- 🙌 My latest project https://chatzy-w0k9.onrender.com/
  
 - 👨‍💻 All of my projects are available at https://github.com/Bhanupratap83
 
 - 👯 I’m looking to collaborate on open source and seeking for a opportunity as Intern.
 
-- 💬 Ask me about HTML, CSS, Javascript and languages i.e C, C++, Java.
+- 💬 Ask me about MERN Stach.
 
 - 📫 You may reach out at www.linkedin.com/in/bhanupratapit
 
