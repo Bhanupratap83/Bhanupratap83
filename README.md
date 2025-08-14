@@ -19,7 +19,7 @@
 
 - 👯 I’m looking to collaborate on open source and seeking for a opportunity as Intern.
 
-- 💬 Ask me about MERN Stach.
+- 💬 Ask me about MERN Stack.
 
 - 📫 You may reach out at www.linkedin.com/in/bhanupratapit
 
