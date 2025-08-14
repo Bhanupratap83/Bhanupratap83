@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently learning DSA in Java and MERN Stack.
 
-- 🖊️ I'm having 9.02 cgpa till 5th sem.
+- 🖊️ I'm having 9.04 cgpa till 5th sem.
 
 - Here is my resume :  https://drive.google.com/file/d/10qzdwwDWs2QvaBIcTCx65YFvuKFLvZBo/view?usp=sharing
   
