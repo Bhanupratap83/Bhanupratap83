@@ -9,7 +9,7 @@
 
 - 🖊️ I'm having 9.04 cgpa till 5th sem.
 
-- Here is my resume :  https://drive.google.com/file/d/10qzdwwDWs2QvaBIcTCx65YFvuKFLvZBo/view?usp=sharing
+- Here is my resume :  https://drive.google.com/file/d/1tqaCLRo2jVFIundqbSW95LJidDD6VesO/view?usp=sharing
   
 - ⚡I've done Virtual Internship from TechnoHacks Solutions Pvt. Ltd. in Full Stack Development ...https://drive.google.com/file/d/1ojusoPjK7n_fqb84_y6tYN5tAk4lI_ja/view?usp=sharing
 
