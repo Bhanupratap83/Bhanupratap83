@@ -23,7 +23,7 @@
 
 - 📫 You may reach out at www.linkedin.com/in/bhanupratapit
 
-- 📩 You may reach out at bp747444@gmail.com
+- 📩 You may reach out at bhanupratap.it26@gmail.com
 
 - ⚡ I'm passionate and adaptive person.
 
