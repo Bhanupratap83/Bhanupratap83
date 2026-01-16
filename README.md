@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently learning DSA in Java and MERN Stack.
 
-- 🖊️ I'm having 9.04 cgpa till 5th sem.
+- 🖊️ I'm having 9.01 cgpa till 6th sem.
 
-- Here is my resume :  https://drive.google.com/file/d/1tqaCLRo2jVFIundqbSW95LJidDD6VesO/view?usp=sharing
+- Here is my resume :  https://drive.google.com/file/d/1D9LMso8OU4zk_3VTROFMiq7gNsXbx3Vp/view?usp=sharing
   
 - ⚡I've done Virtual Internship from TechnoHacks Solutions Pvt. Ltd. in Full Stack Development ...https://drive.google.com/file/d/1ojusoPjK7n_fqb84_y6tYN5tAk4lI_ja/view?usp=sharing
 
